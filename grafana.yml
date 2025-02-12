@@ -1,8 +1,0 @@
-apiVersion: operators.coreos.com/v1
-kind: OperatorGroup
-metadata:
-  generateName: grafana-operator-
-  namespace: grafana
-spec:
-  targetNamespaces:
-  - grafana
