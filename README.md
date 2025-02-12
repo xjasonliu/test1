@@ -3,7 +3,7 @@ A repository for Kustomize manifests for Rocket AI Hub on IBM Power (ppc64le).
 These manifests base on the [official Kubeflow manifests](http://www.github.com/kubeflow/manifests/).
 
 ## Supported Distributions
-- Red Hat OpenShift v4.14 on ppc64le
+- Red Hat OpenShift v4.14/4.16 on ppc64le
 
 ## Supported Environment
 - Tested on IBM Techzone P9/P10 Environment with minimum 4 cores and 128G memory
